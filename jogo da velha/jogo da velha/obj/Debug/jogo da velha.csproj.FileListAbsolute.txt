@@ -1,0 +1,10 @@
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe.config
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\bin\Debug\jogo da velha.pdb
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.AssemblyReference.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.GenerateResource.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo da velha.exe
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo da velha.pdb
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Jogo.resources
