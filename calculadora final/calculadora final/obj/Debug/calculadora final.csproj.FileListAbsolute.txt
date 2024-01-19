@@ -1,0 +1,10 @@
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\bin\Debug\calculadora final.exe.config
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\bin\Debug\calculadora final.exe
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\bin\Debug\calculadora final.pdb
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora final.csproj.AssemblyReference.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora_final.Form1.resources
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora_final.Properties.Resources.resources
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora final.csproj.GenerateResource.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora final.csproj.CoreCompileInputs.cache
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora final.exe
+C:\Users\Wilson  Alves\OneDrive\Ambiente de Trabalho\projecto c\calculadora final\calculadora final\obj\Debug\calculadora final.pdb
